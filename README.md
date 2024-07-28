@@ -13,7 +13,7 @@ Recreating these Decision Tree algorithms provides insights into
 For a detailed explanation on these, check out the accompanying [article on medium](https://medium.com/@ayoakinkugbe/build-k-nearest-neighbors-knn-from-scratch-10dbc5b21254)
 
 ### Code
-You can find the code for this project [here](https://github.com/ayoakin/KNN_From_Scratch/blob/main/KNN_From_Scratch.ipynb).
+You can find the code for this project [here](https://github.com/ayoakin/Decision_Trees_From_Scratch/blob/main/Decision_Trees_From_Scratch.ipynb).
 
 File overview:
 
