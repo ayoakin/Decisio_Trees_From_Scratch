@@ -10,7 +10,7 @@ Recreating these Decision Tree algorithms provides insights into
 * Strenghts and Drawbacks of the each algorithm
 * Customization potential and Use cases for the algorithms
 
-For a detailed explanation on these, check out the accompanying [article on medium](https://medium.com/@ayoakinkugbe/build-k-nearest-neighbors-knn-from-scratch-10dbc5b21254)
+For a detailed explanation on these, check out the accompanying [article on medium](https://medium.com/@ayoakinkugbe/build-decision-trees-algorithms-from-scratch-ca5d80cc1e8f)
 
 ### Code
 You can find the code for this project [here](https://github.com/ayoakin/Decision_Trees_From_Scratch/blob/main/Decision_Trees_From_Scratch.ipynb).
